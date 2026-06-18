@@ -1,0 +1,9 @@
+{
+  "app": "AIStoryPlanner",
+  "version": "0.2.0",
+  "update_type": "package",
+  "update_url": "https://aistoryplanner.com/downloads/AIStoryPlanner-0.2.0.zip",
+  "sha256": "ZIP_FILE_SHA256_VALUE",
+  "size": 0,
+  "notes": "AI 스토리 플래너 최초 배포 버전"
+}
