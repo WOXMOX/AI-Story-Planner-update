@@ -2,8 +2,9 @@
   "app": "AIStoryPlanner",
   "version": "0.2.0",
   "update_type": "package",
+  "scope": "full-installation",
   "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-0.2.0.zip",
-  "sha256": "ZIP_FILE_SHA256_VALUE",
-  "size": 0,
+  "sha256": "0d4920e093c6d238b299e6ac5bedbdadae8677c1bad45b0e7ef3e0c21ddd170e",
+  "size": 296149559,
   "notes": "AI 스토리 플래너 최초 배포 버전"
 }
