@@ -1,10 +1,15 @@
 {
   "app": "AIStoryPlanner",
-  "version": "0.2.0",
-  "update_type": "package",
-  "scope": "full-installation",
-  "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-0.2.0.zip",
-  "sha256": "0d4920e093c6d238b299e6ac5bedbdadae8677c1bad45b0e7ef3e0c21ddd170e",
-  "size": 296149559,
-  "notes": "AI 스토리 플래너 최초 배포 버전"
+  "version": "0.2.1",
+  "created_at": "2026-06-19T14:20:20",
+  "update_type": "exe",
+  "scope": "executable-only",
+  "package": "AIStoryPlanner-0.2.1.exe",
+  "sha256": "9973885b15b7ef3575e097ab67d7bc5b72f324bda3bf3f110c88f5aae4366c51",
+  "size": 12387245,
+  "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-0.2.1.exe",
+  "file_manifest": "release-files-0.2.1.json",
+  "file_manifest_sha256": "d362f7d1ec3bc340ae0b0e153cc77c522965caeca4306e8358636a7448721593",
+  "notes": "Download zip, extract next to current installation, then restart app.",
+  "target": "AIStoryPlanner.exe"
 }
