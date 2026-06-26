@@ -1,15 +1,15 @@
 {
   "app": "AIStoryPlanner",
-  "version": "0.3.6",
-  "created_at": "2026-06-23T18:37:58",
+  "version": "0.3.7",
+  "created_at": "2026-06-26T11:59:19",
   "update_type": "exe",
   "scope": "executable-only",
-  "package": "AIStoryPlanner-0.3.6.exe",
-  "sha256": "0eb88cfc4dac6b7ba06e1b4e08cb8cdf242da100fc7066d59029498e69b4ce0b",
-  "size": 12418045,
-  "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-0.3.6.exe",
-  "file_manifest": "release-files-0.3.6.json",
-  "file_manifest_sha256": "eb2036f0f859c385a53caab2b229991fb0ee70b09cc2efc043968717170cbdf2",
+  "package": "AIStoryPlanner-0.3.7.exe",
+  "sha256": "a8856002a591f5aeb6e38da9ac6bb51302e887b4873cdc0a95e2aee8bd703bf5",
+  "size": 12420582,
+  "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-0.3.7.exe",
+  "file_manifest": "release-files-0.3.7.json",
+  "file_manifest_sha256": "7b8a50f6f8e6c4efa23b203b11d75c0ea8571cce839f15d70a1111104fa6c081",
   "notes": "The updater replaces AIStoryPlanner.exe and restarts the app automatically.",
   "target": "AIStoryPlanner.exe"
 }
