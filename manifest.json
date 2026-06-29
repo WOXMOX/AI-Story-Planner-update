@@ -1,14 +1,14 @@
 {
   "app": "AIStoryPlanner",
-  "version": "0.9.13",
-  "created_at": "2026-06-29T10:13:24",
+  "version": "0.9.14",
+  "created_at": "2026-06-29T10:55:16",
   "update_type": "package",
   "scope": "full-installation",
-  "package": "AIStoryPlanner-0.9.13.zip",
-  "sha256": "6f82369b9343a233af056bfd73b93d8e3cea2b34ca1019234e4e7f04318662c1",
-  "size": 311181903,
-  "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-0.9.13.zip",
-  "file_manifest": "release-files-0.9.13.json",
-  "file_manifest_sha256": "2d264da0c4a22e0549e743f9288754f91afbe6fdcb6348c2e7d986bdf3a3f74e",
+  "package": "AIStoryPlanner-0.9.14.zip",
+  "sha256": "2f587d44c3716d660fab0ca8dc7a4b688ce7bc4e27355fcad1c463918228847b",
+  "size": 311175863,
+  "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-0.9.14.zip",
+  "file_manifest": "release-files-0.9.14.json",
+  "file_manifest_sha256": "8b445554a39d0980171bdc27a3b0524ff5497144b3739bab3ccac0d12f8bcf6d",
   "notes": "Download and extract the full package manually."
 }
