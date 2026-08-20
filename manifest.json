@@ -1,23 +1,21 @@
 {
   "app": "AIStoryPlanner",
-  "version": "1.2.2",
-  "created_at": "2026-08-21T04:09:03",
-  "update_type": "partial",
-  "scope": "selected-files",
-  "package": "AIStoryPlanner-1.2.2-partial.zip",
-  "sha256": "6550305440a0e408cfc442051569c76b49d776f291b52e0e692063a7a13c3b0d",
-  "size": 12836421,
-  "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-1.2.2-partial.zip",
-  "file_manifest": "release-files-1.2.2.json",
-  "file_manifest_sha256": "bb9eba3cc1af8b66c4ad09d5a69b664e747f90c474501625febc41a4fdb312df",
-  "notes": "The updater replaces verified selected files and restarts the app automatically.",
-  "minimum_version": "1.2.1",
-  "files": [
-    {
-      "path": "AIStoryPlanner.exe",
-      "action": "replace",
-      "size": 13194632,
-      "sha256": "6796f99cdea8c930cf3d12dedc62b76e3dff4eee2b520caf953d294e3f72b6a9"
-    }
-  ]
+  "version": "1.2.3",
+  "created_at": "2026-08-21T04:49:22",
+  "update_type": "exe",
+  "scope": "executable-only",
+  "package": "AIStoryPlanner-1.2.3-update.zip",
+  "sha256": "fbfb721ec25f8a0edeae32aabc67719324d12339de30908471955e47e73b4bb6",
+  "size": 12837568,
+  "update_url": "https://aistoryplanner.com/download/AIStoryPlanner-1.2.3-update.zip",
+  "file_manifest": "release-files-1.2.3.json",
+  "file_manifest_sha256": "9d08eeff3f6acf2dcca7831b5894851bba1e5a4b198776b3f232ae7bcda69349",
+  "notes": "The updater replaces AIStoryPlanner.exe and restarts the app automatically.",
+  "target": "AIStoryPlanner.exe",
+  "target_sha256": "e565da2a60b55721905bd58e19ff9c8c77c4fcd0ad7dadf0ebf9d34e9a5bf7c5",
+  "target_size": 13196023,
+  "minimum_exe_update_version": "1.2.1",
+  "full_package": "AIStoryPlanner-1.2.3.zip",
+  "full_package_sha256": "2e8fcbdedeac1652929514060cdaf69478c28e165ffdbb61a4d80d1c50f637e4",
+  "full_package_size": 311237140
 }
